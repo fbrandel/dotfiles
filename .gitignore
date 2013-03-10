@@ -1,0 +1,28 @@
+# Sass / Compass
+.sass-cache
+
+# node.js / npm
+pids
+logs
+results
+npm-debug.log
+node_modules
+
+# PHP
+vendor/*
+
+# Editors
+.idea/
+*.tmproj
+*.tmproject
+.project
+.metadata
+
+# Gobal
+cache
+.DS_Store
+Thumbs.db
+.svn
+._*
+.Spotlight-V100
+.Trashes
